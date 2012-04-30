@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Restful.Service.Client.Mvc</id>
+    <version>1.0.0.1</version>
+    <authors>Ben Keeping</authors>
+    <owners>Ben Keeping</owners>
+    <projectUrl>http://github.com/benjaminkeeping/Restful.Service.Client.Mvc</projectUrl>
+    <description>Provides a base for a ASP.NET MVC client API for restful web services</description>
+    <copyright>Copyright Ben Keeping 2012</copyright>
+    <dependencies>
+      <dependency id="Restful.Service.Client" version="1.0.0.0" />
+    </dependencies>
+    
+  </metadata>
+</package>
